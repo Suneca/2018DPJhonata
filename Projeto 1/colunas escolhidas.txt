@@ -1,0 +1,4 @@
+UF
+V0402 - Condição na família
+V6007 - Curso mais elevado que frequentou anteriormente
+V0611 - Concluiu este curso que frequentou anteriormente
